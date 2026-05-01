@@ -8,7 +8,7 @@ Control de intensidad: Un slider básico para ajustar el nivel de oscuridad en t
 
 Límite anti-bloqueo: Topado al 95% de opacidad. Si llegara al 100%, la pantalla quedaría negra y el móvil inservible, así que este límite te salva de tener que reiniciar a ciegas.
 
-### Stack técnico
+## Stack técnico
 Lenguaje: Kotlin
 
 UI: Jetpack Compose
