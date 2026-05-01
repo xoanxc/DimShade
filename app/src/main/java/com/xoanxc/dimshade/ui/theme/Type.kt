@@ -1,4 +1,4 @@
-package com.app.dimshade.ui.theme
+package com.xoanxc.dimshade.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
