@@ -1,4 +1,4 @@
-package com.app.dimshade.ui.theme
+package com.xoanxc.dimshade.ui.theme
 
 import android.app.Activity
 import android.os.Build

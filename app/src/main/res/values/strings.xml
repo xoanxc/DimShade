@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DimShade</string>
+    <string name="accessibility_service_description">Permite a DimShade aplicar un filtro oscuro sobre la pantalla.</string>
 </resources>

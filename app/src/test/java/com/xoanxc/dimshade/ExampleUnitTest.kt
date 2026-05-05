@@ -1,4 +1,4 @@
-package com.app.dimshade
+package com.xoanxc.dimshade
 
 import org.junit.Test
 
